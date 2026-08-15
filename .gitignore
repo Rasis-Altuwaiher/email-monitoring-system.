@@ -1,0 +1,17 @@
+# Config files
+config.ini
+.env
+
+# Databases
+*.db
+monitoring_logs.db
+
+# Machine Learning models
+*.pkl
+model.pkl
+vectorizer.pkl
+models/
+
+# Python cache
+__pycache__/
+*.pyc
